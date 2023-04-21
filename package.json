@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vikalp-ap/Redux-Basics#readme",
   "dependencies": {
+    "immer": "^10.0.1",
     "redux": "^4.2.1"
   }
 }
